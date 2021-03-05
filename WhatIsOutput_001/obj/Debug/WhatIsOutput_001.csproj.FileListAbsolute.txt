@@ -1,0 +1,2 @@
+D:\Demo Projects\WhatIsOutput_001\obj\Debug\WhatIsOutput_001.csprojAssemblyReference.cache
+D:\Demo Projects\WhatIsOutput_001\obj\Debug\WhatIsOutput_001.csproj.CoreCompileInputs.cache
